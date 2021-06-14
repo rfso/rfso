@@ -6,4 +6,4 @@
     - Motion Graphics lover;
     - Blender enthusiast;
     - WebGL;
-    - Nature/music.
+    - Nature/music/games.

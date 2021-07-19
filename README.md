@@ -4,5 +4,4 @@
         
     - Front-End Developer (Vanilla JS/React);
     - Motion Graphics lover;
-    - WebGL;
     - Nature/music/games.

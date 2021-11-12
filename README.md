@@ -2,6 +2,6 @@
     
       Hey ya, I'm Rafael.
         
-    - Front-End Developer (Vanilla JS/React);
+    - Front-End Developer (JS/TS/React);
     - Motion Graphics lover;
     - Nature/music/games.

@@ -1,4 +1,4 @@
-<img align="left" height="160"  src="https://w.wallhaven.cc/full/yj/wallhaven-yjdl2k.png"/>
+<img src="https://i.imgur.com/P9W1dMk.png"/>
     
       Hey ya, I'm Rafael.
         

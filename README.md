@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/P9W1dMk.png"/>
+<img src="https://i.imgur.com/SU8xgbu.png"/>
     
       Hey ya, I'm Rafael.
         
